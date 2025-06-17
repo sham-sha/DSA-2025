@@ -10,3 +10,6 @@ function c(){
     console.log("Function c called");
 }   
 
+function d(){
+    console.log("Function d called");
+}   
