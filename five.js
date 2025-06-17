@@ -5,3 +5,8 @@ function a(){
 function b(){
     console.log("Function b called");
 }   
+
+function c(){
+    console.log("Function c called");
+}   
+
