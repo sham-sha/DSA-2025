@@ -13,3 +13,7 @@ function c(){
 function d(){
     console.log("Function d called");
 }   
+
+function e(){
+    console.log("Function e called");
+}
