@@ -17,3 +17,6 @@ function d(){
 function e(){
     console.log("Function e called");
 }
+function f(){
+    console.log("Function f called");
+}
