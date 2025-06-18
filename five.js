@@ -24,3 +24,6 @@ function f(){
 function g(){
     console.log("Function g called");
 }
+function h(){
+    console.log("Function h called");
+}
