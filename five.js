@@ -20,3 +20,7 @@ function e(){
 function f(){
     console.log("Function f called");
 }
+
+function g(){
+    console.log("Function g called");
+}
