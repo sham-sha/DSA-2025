@@ -11,3 +11,4 @@ console.log(palandrome("Was it a car or a cat I saw?")); // true
 console.log(palandrome("Hello, World!")); // false
 console.log(palandrome("Madam, in Eden, I'm Adam.")); // true
 console.log(palandrome("12321")); // true
+console.log(palandrome("12345")); // false
