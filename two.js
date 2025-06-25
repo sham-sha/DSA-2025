@@ -4,4 +4,3 @@ function fibbonacci(n) {
 }
 
 fibbonacci(5); // 5
-
