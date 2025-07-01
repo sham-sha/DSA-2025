@@ -4,3 +4,5 @@ for i in range (1,10):
     else:
         print(i, "is odd" )
 print("Done")
+
+for i in range(1, 10):     
