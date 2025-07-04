@@ -6,3 +6,5 @@ function recurringFunction(x) {
     }
 }
 recurringFunction(5); // 32
+
+// This function recursively calculates 2 raised to the power of x.
