@@ -15,5 +15,4 @@ function fibonacci(n) {
   }
   return b;
 }
-
 console.log(fibonacci(5)); // 5
