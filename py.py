@@ -15,3 +15,9 @@ print("Done")
 # This code prints whether numbers from 1 to 9 are even or odd.
 
 print("hello world")
+
+# The following JavaScript code was removed because it is not valid Python:
+# function greet() {
+#     console.log("Hello, World!");
+# }              
+# greet(); // This function prints "Hello, World!" to the console.
